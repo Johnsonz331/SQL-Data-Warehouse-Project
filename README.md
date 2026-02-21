@@ -39,6 +39,7 @@ data-warehouse-project/
 │   ├── bronze/                         # Scripts for extracting and loading raw data
 │   ├── silver/                         # Scripts for cleaning and transforming data
 │   ├── gold/                           # Scripts for creating analytical models
+│   ├── init_database.spl               # Scripts for creating Database and Schemas
 │
 ├── tests/                              # Test scripts and quality files
 │

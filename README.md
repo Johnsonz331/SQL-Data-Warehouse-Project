@@ -51,4 +51,4 @@ SQL-Data-Warehouse-Project/
 
 ## Reference Implementation
 
-This project is a functional replication of the [SQL Data Analytics Project](https://github.com/DataWithBaraa/sql-data-analytics-project) by **DataWithBaraa**. The goal of this repo is to practice and demonstrate the deployment of these analytical queries within my custom data environment.
+This project is a functional replication of the project by **DataWithBaraa**. The goal of this repo is to practice and demonstrate the deployment of these analytical queries within my custom data environment.

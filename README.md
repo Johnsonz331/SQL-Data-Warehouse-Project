@@ -25,7 +25,7 @@ The data architecture for this project follows Medallion Architecture **Bronze**
 ---
 # Repository Structure
 ```
-data-warehouse-project/
+SQL-Data-Warehouse-Project/
 │
 ├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
 │

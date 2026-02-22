@@ -47,3 +47,8 @@ SQL-Data-Warehouse-Project/
 ├── README.md                           # Project overview and instructions
 └── LICENSE                             # License information for the repository
 ```
+
+
+## Reference Implementation
+
+This project is a functional replication of the [SQL Data Analytics Project](https://github.com/DataWithBaraa/sql-data-analytics-project) by **DataWithBaraa**. The goal of this repo is to practice and demonstrate the deployment of these analytical queries within my custom data environment.
